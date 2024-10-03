@@ -1,2 +1,2 @@
 # excel_projects
-various projects in xcel collected in one repository
+various projects in excel collected in one repository
